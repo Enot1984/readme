@@ -28,7 +28,7 @@ LICENSE: [MIT](./license.md)
 
 ### Совместная работа и обновление
 1. [git fetch](./fetch.md)
-2. [git pull](./pull)
+2. [git pull](./pull.md)
 3. [git push](./push.md)
 
 ---
